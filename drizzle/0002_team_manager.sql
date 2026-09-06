@@ -1,0 +1,1 @@
+ALTER TABLE `teams` ADD COLUMN `manager_discord_id` text NOT NULL DEFAULT '';

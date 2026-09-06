@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title>Universe Meta</title>
+  <path fill="#ec003d" d="M128 14 217 65a25 25 0 0 1 13 22v82a25 25 0 0 1-13 22l-89 51a25 25 0 0 1-25 0l-89-51a25 25 0 0 1-13-22V87a25 25 0 0 1 13-22l89-51a25 25 0 0 1 25 0Z"/>
+  <path fill="#090b10" d="m128 48 61 35v70l-61 35-61-35V83l61-35Zm0 31-34 20v39l34 19 34-19V99l-34-20Z"/>
+  <path fill="#ec003d" d="M112 92h32v73l-16 9-16-9V92Z"/>
+</svg>
